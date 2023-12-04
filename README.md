@@ -8,7 +8,7 @@
 - [Publisher](#publisher)
 - [Licenses](#licenses)
 
-## How to Install Linux
+# How to Install Linux
 
 [Linux](https://www.linux.org/) is an open-source operating system that can be installed on a variety of computer hardware. The installation process may vary depending on the distribution you choose. Below are general steps:
 
